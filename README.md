@@ -2,6 +2,9 @@
 **Software Systems Development (CRN 12391) · Level 5**  
 **The British College (Leeds Beckett University) · Sudan Pudasaini**
 
+> 📘 **Day 2 Theory Notes & Lab Companion:**  
+> For full lecture notes, constructor chaining rules, JVM vtable mechanics, Heron's formula derivation, and Component 2 formative MCQ practice, see [CLASS_2_NOTES_AND_LAB_GUIDE.md](CLASS_2_NOTES_AND_LAB_GUIDE.md).
+
 ---
 
 ## 🎯 Lab Objectives
